@@ -22,7 +22,7 @@ STD = [0.5, 0.5, 0.5]
 
 """ PATH (※ PATH depends on your env
 """
-PATH = "/home/cassava"
+PATH = "."
 DATA_PATH = f"{PATH}/data"
 OUTPUT_PATH = f"{PATH}/output"
 
