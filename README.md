@@ -3,14 +3,17 @@
   - 3rd Place Solution
 
 ### LeaderBoard
-![LeaderBoard](https://github.com/TomYanabe/Cassava-Leaf-Disease-Classification/figures/leaderbord.png)
+<p align="center">
+    <img src="./figures/leaderboard.png" width=80%>
+</p>
 
 ### Discussion (Solution)
 - https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/221150
 
 ### Summary
-![Summary](https://github.com/TomYanabe/Cassava-Leaf-Disease-Classification/figures/summary.png)
-
+<p align="center">
+    <img src="./figures/summary.png" width=90%>
+</p>
 
 ### How to run
 ```
