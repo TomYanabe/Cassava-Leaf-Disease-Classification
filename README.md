@@ -7,7 +7,7 @@
     <img src="./figures/leaderboard.png" width=80%>
 </p>
 
-### Discussion (Solution)
+### Discussion (witeup)
 - https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/221150
 
 ### Summary
