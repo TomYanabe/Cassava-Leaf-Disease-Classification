@@ -1,4 +1,4 @@
-# Cassava Leaf Disease Classification
+# Cassava Leaf Disease Classification 3rd Place Solution
   - kaggle Cassava Leaf Disease Classification 2020
   - 3rd Place Solution
 
