@@ -1,0 +1,32 @@
+
+models:
+  - arch_name: vit_base_patch16_384
+    image_size: 384
+    use_external: True
+    multi_dropout: False
+    att_layer: False
+    att_pattern: None
+    label_smooth: 0.
+    model_name: single_vit
+    label_smooth: False
+    label_smooth_alpha: 0.
+
+  - arch_name: vit_base_patch16_224
+    image_size: 448
+    use_external: True
+    multi_dropout: False
+    att_layer: True
+    att_pattern: "A"
+    model_name: single_vit4_type_A
+    label_smooth: False
+    label_smooth_alpha: 0.
+
+  - arch_name: vit_base_patch16_224
+    image_size: 448
+    use_external: True
+    multi_dropout: True
+    att_layer: True
+    att_pattern: "B"
+    model_name: single_vit4_type_B
+    label_smooth: True
+    label_smooth_alpha: 0.01
