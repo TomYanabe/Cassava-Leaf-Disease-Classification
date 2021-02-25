@@ -75,7 +75,7 @@ class Runner(BaseRunner):
             ).to(self.device)
             self.model = myModel(
                 arch_name=self.config.arch_name,
-                pretrained=False,
+                pretrained=True,
                 img_size=self.config.image_size,
                 multi_drop=self.config.multi_dropout,
                 multi_drop_rate=0.5,

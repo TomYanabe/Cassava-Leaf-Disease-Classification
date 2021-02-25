@@ -26,3 +26,8 @@ $ python main.py --debug
 # use multi-gpu
 $ python main.py --multi-gpu
 ```
+
+### Requirements
+- dataset
+  - Merged JPEG Dataset [Duplicates Removed]
+  - https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/200201
