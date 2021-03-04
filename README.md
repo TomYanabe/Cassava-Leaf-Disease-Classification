@@ -25,6 +25,10 @@ $ python main.py --debug
 
 # use multi-gpu
 $ python main.py --multi-gpu
+
+# ※pls use 3 multi-gpu 
+#  if you want reproduce prize model
+
 ```
 
 ### Requirements
