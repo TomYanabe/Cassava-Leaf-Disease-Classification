@@ -10,6 +10,11 @@
 ### Discussion (witeup)
 - https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/221150
 
+### Inference Notebook and Weights
+- https://www.kaggle.com/tomyanabe/cassava-leaf-disease-classification
+- https://www.kaggle.com/tomyanabe/cassavamodels
+- https://www.kaggle.com/tomyanabe/cassavamymodels
+
 ### Summary
 <p align="center">
     <img src="./figures/summary.png" width=90%>
